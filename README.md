@@ -1,5 +1,7 @@
 # Spotify Redesign
 
+✨ Design Inspiration for Spotify Redesign by Nicholas Ergemla from Dribbble: [Spotify Redesign](https://dribbble.com/shots/15165960-Spotify-Redesign)
+
 This app shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
 ## Technologies used
